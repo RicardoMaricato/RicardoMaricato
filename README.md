@@ -10,7 +10,7 @@ Today I'm a Software Engineer with a focus on Java, Microservices, Spring Framew
 alt="Java" width="30"/></a>
 <a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/spring.png"
 alt="Spring" width="30"/></a>
-<a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/golang.png"
+<a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/golang-1.png"
 alt="Golang" width="30"/></a>
 <a><img align="left" src="https://github.com/RicardoMaricato/RicardoMaricato/blob/main/images/angular.png"
 alt="Angular" width="30"/></a>
