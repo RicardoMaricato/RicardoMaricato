@@ -2,7 +2,7 @@
 
 **I work with**
 
-Today I'm a Software Engineer with a focus on Java, Microservices, Spring Framework. But I like to work in other technologies too.
+Today I'm a Software Engineer with a focus on Java, Go, Microservices. But I like to work in other technologies too.
 
 **Technology Stack:**
 
