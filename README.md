@@ -1,4 +1,4 @@
-### Hi there, I'm [Ricardo Maricato](https://anuraghazra.github.io), I'm a Software Enginner from Brazil! 👋
+### Hi there, I'm [Ricardo Maricato](https://anuraghazra.github.io), I'm a Software Engineer from Brazil! 👋
 
 **I work with**
 
