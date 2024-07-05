@@ -1,8 +1,6 @@
-### Hi there, I'm Ricardo Maricato, I'm a Software Engineer from Brazil! 👋
+### Hi there! I'm Ricardo Maricato, a Software Engineer from Brazil! 👋
 
-**I work with**
-
-Today I'm a Software Engineer with a focus on Java, Go, Microservices. But I like to work in other technologies too.
+Today, I work as a Software Engineer with a focus on Golang, but I'm also comfortable working with other technologies.
 
 **Technology Stack:**
 
